@@ -19,5 +19,5 @@ This instructions folder has the following chapters
  - Uploading your mod to the workshop (mostly opinionated advice)
  - Credits
 
- For a list of the sound cues that this template supports, and under what circumstances that the play, see:  
+ For a list of the sound cues that this template supports, and under what circumstances that they play, see:  
  https://docs.google.com/spreadsheets/d/10nvJjtUMIvddWRPKUaKMBv4yyiMHjWVSwdeG07YZF0o/

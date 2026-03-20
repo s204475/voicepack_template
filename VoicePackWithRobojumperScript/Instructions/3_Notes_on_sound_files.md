@@ -35,7 +35,7 @@ average loudness of about -10 or -11dB (relative to the maximum that PCM can exp
 with some shouts of pain being a bit louder. The average volume for these barks is then 
 reduced to about -14 or -15dB by the two 0.75 volume multipliers.
 
-I suggest that sensible starting point when creating voice parks is to:
+I suggest that a sensible starting point when creating voice packs is to:
 - target an 'integrated loudness' of about -14dB in the sound files, and
 - set the volume multiplier of the SoundCue objects to 1.34 
 (cancelling out the 0.75 SoundNodeWave multiplier).

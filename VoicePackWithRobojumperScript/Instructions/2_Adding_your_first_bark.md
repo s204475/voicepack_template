@@ -1,7 +1,7 @@
 # Adding your first bark
 
-This sections goes through the process of adding a 'Dashing' bark. 
-This the bark played when previewing a voice in the character customisation screen.
+This section goes through the process of adding a 'Dashing' bark. 
+This is the bark played when previewing a voice in the character customisation screen.
 
 You may want to review the "Notes on sound files" section before proceeding.
 

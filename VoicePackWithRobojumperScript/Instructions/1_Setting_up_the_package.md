@@ -1,6 +1,6 @@
 # Setting up the package
 
-These instructions assume that you've setup the XCOM 2 SDK correctly. 
+These instructions assume that you've set up the XCOM 2 SDK correctly. 
 If you haven't, or you're not sure that you have, you should investigate the 
 [instructions on the r/xcom2mods wiki](https://www.reddit.com/r/xcom2mods/wiki/firsttime).
 
